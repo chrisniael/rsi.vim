@@ -45,10 +45,10 @@ Plug 'chrisniael/rsi.vim'
 - [ ] C-A, beginning-of-line
 - [ ] C-B, backward-char
 - [ ] C-D, delete-char
-- [ ] C-E, end-of-line (vim default)
+- [ ] C-E, end-of-line
 - [ ] C-F, forward-char
 - [ ] C-G, abort
-- [ ] C-I, complete (vim default)
+- [x] C-I, complete (vim default)
 - [ ] C-J, accept-line
 - [ ] C-K, kill-line
 - [ ] C-L, clear-screen
@@ -59,7 +59,7 @@ Plug 'chrisniael/rsi.vim'
 - [ ] C-R, reverse-search-history
 - [ ] C-S, forward-search-history
 - [ ] C-T, transpose-chars
-- [ ] C-U, unix-line-discard (vim default)
+- [x] C-U, unix-line-discard (vim default)
 - [ ] C-V, quoted-insert
 - [ ] C-W, unix-word-rubout
 - [ ] C-Y, yank

@@ -59,4 +59,4 @@ cnoremap <C-S> <C-F>
 " C-?  backward-delete-char
 
 " Enter, just choose, not execute immediately
-cnoremap <expr> <CR> pumvisible() ? "<Space>" : "<CR>"
+cnoremap <expr> <CR> pumvisible() ? "<Space><BS>" : "<CR>"

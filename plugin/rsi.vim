@@ -37,7 +37,8 @@ cnoremap <C-K> <C-\>e getcmdpos() == 1 ? '' : getcmdline()[:getcmdpos()-2]<CR>
 " C-Q  quoted-insert
 
 " C-R  reverse-search-history
-cnoremap <C-R> <C-F>
+" Diable, some origin function may not work
+" cnoremap <C-R> <C-F>
 
 " C-S  forward-search-history
 cnoremap <C-S> <C-F>
